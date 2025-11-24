@@ -1,0 +1,10 @@
+{
+  "name": "Telegram Bot AutoComplete",
+  "version": "1.0.1",
+  "description": "Auto-complete untuk Telegram Bot API - khusus callback_data dan method",
+  "author": "Your Name",
+  "icon": "icon.png",
+  "files": ["main.js", "telegram-data.js"],
+  "tags": ["autocomplete", "telegram", "bot", "callback"],
+  "repo": "https://github.com/username/telegram-bot-autocomplete"
+}
