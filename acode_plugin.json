@@ -1,0 +1,9 @@
+{
+  "name": "telegram-bot-autocomplete",
+  "version": "1.0.0",
+  "description": "Auto-complete untuk Telegram Bot API",
+  "author": "UsernameKamu",
+  "icon": "icon.png",
+  "files": ["main.js", "telegram-data.js"],
+  "tags": ["autocomplete", "telegram"]
+}
